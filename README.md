@@ -4,13 +4,6 @@
 - 🔭 I’m currently working on **Souled Store Clone**
 - 🌱 I’m currently learning **Backend Development**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/aryan samal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan samal" height="30" width="40" />
-  </a>
-</p>
-
 <h3 align="center">Languages and Tools:</h3>
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
